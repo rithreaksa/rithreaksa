@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **[Next.js](https://nextjs.org) / [React](https://reactjs.org)**
+- 🌱 I’m currently learning **JavaScript** and **Jest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
