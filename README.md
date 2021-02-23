@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **JavaScript** and **Jest**
+- 🌱 I’m currently learning **JavaScript** **[TypeScript](https://www.typescriptlang.org)** and **[Jest](https://jestjs.io)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
