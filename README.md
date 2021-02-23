@@ -3,8 +3,6 @@
 <h4 align="center">A passionate and dedicated junior developer</h4>
 <h5 align="center"><i>"Don’t be doubtful of your abilities; you’ll find the necessary resources within yourself to make the most of changing conditions"</i></h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rithreaksa&label=Profile%20views&color=0e75b6&style=flat" alt="rithreaksa" /> </p>
-
 - 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **JavaScript** **[TypeScript](https://www.typescriptlang.org)** and **[Jest](https://jestjs.io)** 
